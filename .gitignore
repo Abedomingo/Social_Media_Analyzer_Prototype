@@ -103,12 +103,16 @@ celerybeat.pid
 
 # Environments
 .env
+.env.example
 .venv
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
+
+# Local API credential files
+twitter_api_key_config.yaml
 
 # Spyder project settings
 .spyderproject
