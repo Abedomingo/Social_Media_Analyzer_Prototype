@@ -1,5 +1,5 @@
-# CS591FinalProject
-The final project for CS591.
+# Social Media Analyzer
+This project is back in prototype stage. Right now, overgoing a total refactoring in order to support ETL pipelines that store, normalize and clean PII from records obtained via the X/Twitter API.
 
 # Notes for Aberaham
 * Data has been normalized
